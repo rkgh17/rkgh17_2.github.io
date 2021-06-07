@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About
+title: My info
 permalink: /about/
 ---
 
-
-### More Information
 
 961027 황지훈
 
